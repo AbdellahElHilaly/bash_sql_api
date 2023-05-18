@@ -1,0 +1,18 @@
+---------------------------------------data default---------------------------------------
+id	username	password	email
+1	abdullah	123456	abdellah@gmail.com
+2	jilaly	123456	jilaly@gmail.com
+3	mohamed	123456	mohamed@gmail.com
+4	youssef	123456	youssef@gmail.com
+---------------------------------------data order by username-----------------------------
+id	username	password	email
+1	abdullah	123456	abdellah@gmail.com
+2	jilaly	123456	jilaly@gmail.com
+3	mohamed	123456	mohamed@gmail.com
+4	youssef	123456	youssef@gmail.com
+---------------------------------------data count l--------------------------------------
+username	count
+abdullah	2
+jilaly	2
+mohamed	0
+youssef	0
